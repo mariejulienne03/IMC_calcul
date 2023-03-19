@@ -1,0 +1,25 @@
+
+body{
+    background-color:#5ABF9C;
+
+  }
+
+
+  .calculateur {
+    padding: 25px;
+    margin: 0 auto;
+    margin-top: 6em;
+    border-radius: 5px;
+    background: #f1f1f1;
+    box-shadow: 0 5px 10px rgba(104,104,104,0.5);
+    text-align: center;
+    max-width: fit-content;
+  }
+
+  #envoyer{
+    margin-top: 20px;
+    background-color: orange;
+  }
+
+  
+
